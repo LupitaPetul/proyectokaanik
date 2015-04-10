@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Animaciones\MenuPrincipal\detenerAnum.js" />
      <Compile Include="Assets\Scripts\AccionCerrar.js" />
      <Compile Include="Assets\Scripts\AccionConfig.js" />
      <Compile Include="Assets\Scripts\AccionPause.js" />
