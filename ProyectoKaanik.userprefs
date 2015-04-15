@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Animaciones\MenuPrincipal\detenerAnum.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuPrincipal\MovMontanas.js">
     <Files>
-      <File FileName="Assets\Animaciones\MenuPrincipal\detenerAnum.js" Line="2" Column="1" />
-      <File FileName="Assets\Scripts\MenuPrincipal.js" Line="2" Column="1" />
+      <File FileName="Assets\Scripts\MenuPrincipal\MovMontanas.js" Line="9" Column="35" />
+      <File FileName="Assets\Scripts\MenuPrincipal.js" Line="2" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -43,7 +43,6 @@
 -r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
 -r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
 -i:UnityEditor
-Assets/Animaciones/MenuPrincipal/detenerAnum.js
 Assets/Scripts/AccionCerrar.js
 Assets/Scripts/AccionConfig.js
 Assets/Scripts/AccionPause.js
